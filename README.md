@@ -1,5 +1,7 @@
 # RabbitMQ on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/rabbitmq-2?utm_medium=integration&utm_source=button&utm_campaign=rabbitmq)
+
 A one-click [Railway](https://railway.com) template for [RabbitMQ](https://www.rabbitmq.com/), the open-source message broker (AMQP 0-9-1, with the management UI and HTTP API).
 
 **Version:** RabbitMQ 4.4.0, from the official image `rabbitmq:4.4.0-management`, pinned by digest in the [`Dockerfile`](Dockerfile).
